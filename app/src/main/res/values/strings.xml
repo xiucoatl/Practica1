@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Mi FIT</string>
+    <string name="nombreCreador">Israel Ruíz Olmedo</string>
+    <string name="version">Versión 1.0</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+
+    <string name="opc0">Seleciona una opción</string>
+    <string name="opc1">Indice de Masa Corporal (IMC)</string>
+    <string name="opc2">Indice Antropométrico (IA)</string>
+    <string name="opc3">Porcentaje de Grasa Corporal (GC)</string>
+
+    <string name="txtBtnCalcularF1">Calcular</string>
+    <string name="txtBtnCalcularF2">Calcular F2</string>
+    <string name="txtBtnCalcularF3">Calcular F3</string>
+
+    <string name="indicaciones">La estatura se expresa en metros por lo que si mide 170 cms deberás expresarlo como 1.70,  la masa se expresa en kilogramos, </string>
+
+    <string name="descIMC">El índice de masa corporal (IMC) es una razón matemática que asocia la masa y la talla de un individuo,
+        ideada por el estadístico belga Adolphe Quetelet, por lo que también se conoce como índice de Quetelet.</string>
+
+    <string name="descIAnt">Los indicadores antropométricos son valores de dimensión y composición corporal que ofrecen información útil para la evaluación del riesgo de enfermedad
+cardiovascular (ECV), por el exceso de grasa y la distribución de ésta.</string>
+
+    <string name="descGC">La composición corporal se refiere a la cantidad de grasa que tiene, en comparación con la masa muscular (músculos, huesos, "agua corporal", órganos, etc.). </string>
+
+
+    <string name="hintPeso">Peso</string>
+    <string name="hintEstatura">Estatura</string>
+    <string name="hintCintura">Perímetro Cintura</string>
+    <string name="hintCadera">Perímetro Cadera</string>
+
+    <string name="resIMC">Tú IMC es: %.2f </string>
+    <string name="resIA">Tú IA es: %.2f</string>
+    <string name="resGrasa">Tú porcentaje de GC es: %.2f</string>
+
+    <string name="campoOb">Campo Obligatorio</string>
+    <string name="ingresaV">Ingresa Valor</string>
+
+    //Spinner
+    <string-array name="opcionesSpinner">
+        <item>@string/opc0</item>
+        <item>@string/opc1</item>
+        <item>@string/opc2</item>
+        <item>@string/opc3</item>
+    </string-array>
+
+</resources>

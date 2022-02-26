@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="masculino">Male</string>
+    <string name="femenino">Feminine</string>
+    <string name="opc0">Select an option</string>
+    <string name="opc1">" Body Mass Index (BMI)"</string>
+    <string name="opc2">" Anthropometric Index (AI)"</string>
+    <string name="opc3">Body Fat Percentage (BF)</string>
+    <string name="txtBtnCalcularF1">" Calculate"</string>
+    <string name="indicaciones">Height is expressed in meters so if you measure 170 cm you should express it as 1.70, mass is expressed in kilograms,</string>
+    <string name="descIMC">The body mass index (BMI) is a mathematical ratio that associates the mass and height of an individual,         devised by the Belgian statistician Adolphe Quetelet, which is why it is also known as the Quetelet index.</string>
+    <string name="descIAnt">Anthropometric indicators are values ​​of dimension and body composition that offer useful information for the evaluation of the risk of disease cardiovascular disease (CVD), due to excess fat and its distribution.</string>
+    <string name="descGC">Body composition refers to the amount of fat you have, compared to muscle mass (muscles, bones, "body water", organs, etc.). </string>
+    <string name="hintPeso">Weight</string>
+    <string name="hintEstatura">Height</string>
+    <string name="hintCintura">Waist circumference</string>
+    <string name="hintCadera">Hip perimeter</string>
+    <string name="resIA">YourYour AI is: %.2f</string>
+    <string name="resIMC">" Your BMI is: %.2f"</string>
+    <string name="resGrasa">" Your GC percentage is: %.2f"</string>
+    <string name="txtBtnCalcularF2">" Calculate"</string>
+    <string name="txtBtnCalcularF3">" Calculate"</string>
+    <string name="nombreCreador">Israel Ruíz Olmedo</string>
+    <string name="version">Version 1.0</string>
+    <string name="campoOb">" Obligatory field"</string>
+    <string name="ingresaV">" Enter Value"</string>
+</resources>
